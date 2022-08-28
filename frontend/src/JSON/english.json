@@ -1,0 +1,28 @@
+{
+    "name": "Name",
+    "email": "E-mail",
+    "phone": "Phone",
+    "submit": "Submit",
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "request": "Tutorial request",
+        "youtube": "YouTube",
+        "lang": "Language"
+    },
+    "home": {
+        "welcome": "Welcome",
+        "intro": "Learn Technology in your mothertongue - ",
+        "desc": "Never underestimate the power of knowledge. The more we learn, the more we raise. We are here with you to teach/discuss about the technology in native language with simple explanations and with practical examples.",
+        "content": "Thank you for taking the time to look out this, so I can get to know you better and have an idea of how I can best support you in learning modern technologies",
+        "view": "View requests",
+        "create": "Create your request"
+    },
+    "create": {
+        "recommendation": "Tutorial recommendations",
+        "limit": "Select maximum three from below options",
+        "choiceLimit": "maximum 15 characters allowed",
+        "requests": "These are all the users requests",
+        "yoursRequest": "Your requests"
+    }
+}

@@ -1,0 +1,1684 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "2TB0U11bjqhmZFPew49-AiCqFIY",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dWCljsffmSQMulkUYOQbHnluo50",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-06-19T12:38:30Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#1 - What is Bootstrap CSS? - (தமிழில்) (Tamil) | Bootstrap Course",
+                "description": "What is Bootstrap CSS? - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video series, we will learn the boostrap css framework and understand its core concept like bootstrap layouts, bootstrap grid, bootstrap reboot, bootstrap components, bootstrap navbar etc. \n\n👉 Bootstrap Website: https://getbootstrap.com/\n\n- - - - - - - - - - - - - - - - - - - - - -\n⏱ Time Stamps\n- - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:52 - Prerequisites to know before learning Bootstrap CSS! \n01:12 - What is HTML5, CSS3, JavaScript (Overall outline)\n01:35 - Importance of Mobile-friendly and statistics report\n02:58 - Facebook example explained!\n04:22 - What is Responsive web design?\n06:35 - What is Bootstrap?\n09:28 - History of Bootstrap\n10:16 - Why we should learn Bootstrap now?\n10:52 - Who using bootstrap?\n11:40 - Bootstrap questions to ask - Answered\n12:58 - What we will learn from this series?\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RIAlNPgSkG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RIAlNPgSkG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RIAlNPgSkG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RIAlNPgSkG8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RIAlNPgSkG8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RIAlNPgSkG8"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6diBQwEMvPE-hMCjL7iGrU7dBZ0",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-06-29T13:28:34Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#2 - Installing & Running Bootstrap - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Installing & Running Bootstrap - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video series, we will learn the boostrap css framework and understand its core concept like bootstrap layouts, bootstrap grid, bootstrap reboot, bootstrap components, bootstrap navbar etc. \n\n👉 Bootstrap Website: https://getbootstrap.com/\n\n👉 VSCode Editor: https://code.visualstudio.com/download\n\n👉 How to install NPM (Node): https://youtu.be/GYdao3CV1DY\n\n- - - - - - - - - - - - - - - - - - - - - -\n⏱ Time Stamps\n- - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:12 - Setting up project workplace\n01:40 - Different ways of installing bootstrap\n02:22 - Online Bootstrap CDN\n03:56 - Installing Bootstrap in Offline Usage\n07:02 - Installing Bootstrap through Package Manager (NPM)\n10:22 - Organizing the project structure\n10:48 - Deleting unwanted files to free-up the workplace. \n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8b0a_Awp9lA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8b0a_Awp9lA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8b0a_Awp9lA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8b0a_Awp9lA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8b0a_Awp9lA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8b0a_Awp9lA"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jzs_3nYn6fw3HcC7KnML7CoKTiU",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-07-03T23:04:12Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#3 - Bootstrap CSS Reboot - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap CSS Reboot - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video series, we will learn the boostrap css framework and understand its core concept like bootstrap layouts, bootstrap grid, bootstrap reboot, bootstrap components, bootstrap navbar etc. \n\n👉 Download Bootstrap: https://getbootstrap.com/\n\n👉 Bootstrap Documentation : https://getbootstrap.com/docs/\n\n👉 VSCode Editor: https://code.visualstudio.com/download\n\n👉 How to install NPM (Node): https://youtu.be/GYdao3CV1DY\n\n- - - - - - - - - - - - - - - - - - - - - -\n⏱ Time Stamps\n- - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:15 - Creating Stylesheet\n01:02 - What is Reboot\n02:23 - Reboot explanation\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 04 - Bootstrap Containers ()\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#Bootstrap #ProgrammingTamil #CodingTamil #Cyberdude #AnbuselvanRocky",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ebCDAIwdz3o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ebCDAIwdz3o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ebCDAIwdz3o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ebCDAIwdz3o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ebCDAIwdz3o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ebCDAIwdz3o"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vSCvPlRCNum6yY0bJPFII9cGGbM",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-08-03T14:54:25Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#04 - Bootstrap Media Viewports with Examples - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap CSS Media Viewports - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video series, we will learn the boostrap css framework and understand its core concept like bootstrap layouts, bootstrap grid, bootstrap reboot, bootstrap components, bootstrap navbar etc. \n\n👉 Download Bootstrap: https://getbootstrap.com/\n\n👉 Bootstrap Documentation : https://getbootstrap.com/docs/\n\n👉 VSCode Editor: https://code.visualstudio.com/download\n\n👉 How to install NPM (Node): https://youtu.be/GYdao3CV1DY\n\n- - - - - - - - - - - - - - - - - - - - - -\n⏱ Time Stamps\n- - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:15 - Why viewports created? \n01:04 - Extra small screens (.xs)\n01:32 - Small screens (.sm)\n02:16 - Medium screens (.md)\n02:43 - Large screens (.lg)\n03:04 - Extra large screens (.xl)\n04:49 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Next Video:  #05 - Bootstrap Containers (https://youtu.be/M-6ey9nK-nc)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#Bootstrap #ProgrammingTamil #CodingTamil #Cyberdude #AnbuselvanRocky #Viewports",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tXyr9UJV7pE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tXyr9UJV7pE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tXyr9UJV7pE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tXyr9UJV7pE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tXyr9UJV7pE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tXyr9UJV7pE"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7GkXmKuaVEmNVTQgXd5TAaqnM6E",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-08-03T15:10:10Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#05 - Bootstrap Containers - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap CSS Containers - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap containers and why we should use it with real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: \n#06 - Bootstrap Grids (https://youtu.be/pTHCF-C7XMs)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⏱ Time Stamps\n- - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:30 - Container examples\n01:12 - .container class\n05:04 - .container-fluid class\n05:40 - Responsive containers\n07:59 - Website modification\n09:46 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 04 - Bootstrap Containers ()\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#Bootstrap #ProgrammingTamil #CodingTamil #Cyberdude #AnbuselvanRocky #Viewports",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M-6ey9nK-nc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M-6ey9nK-nc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M-6ey9nK-nc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M-6ey9nK-nc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M-6ey9nK-nc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "M-6ey9nK-nc"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0SzvAEbR30xtoV5Sg4jkc9Q8Bys",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-08-08T22:54:38Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#06 - Bootstrap Grids - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Grids - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap grid system and how we should structure our layout in most efficient way with real example. If you have any doubts, kindly ask in the comment section.\n\nBefore learning this topic, kindly refer CSS Flexbox, we already have topic on that. Search on channel or you can get it from here.\n\n👉 Learn CSS Flexbox - Tamil (https://youtu.be/LkBlhvg2hqI)\n\n👉 Next Video: #07 - Bootstrap Typography (https://youtu.be/F5qevfpiDwM)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⏱ Time Stamps\n- - - - - - - - - - - - - - - - - - - - - -\n00:00 - What is Bootstrap Grid?\n04:50 - Lets understand by code\n19:52 - Practical example\n25:30 - Grid Flexbox\n30:42 - Grid Offset columns\n34:31 - Bootstrap Grid GUI Tool\n35:44 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Bootstrap Documentation (https://getbootstrap.com/docs/4.5/layout/grid/)\n👉 Bootstrap Viewport (Extension) (https://chrome.google.com/webstore/detail/bootstrap-4-viewport/pdcejjpmicbdgdoioalhmjmhonbaobjm)\n👉 Bootstrap Grid Overlay (Extension) (https://chrome.google.com/webstore/detail/bootstrap-grid-overlay/mnlklmelflkheijccafopdohgclfefcg)\n👉 Bootstrap Grid GUI Tool (http://shoelace.io/)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapGrid #CodingTamil #Cyberdude #AnbuselvanRocky #Viewports",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pTHCF-C7XMs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pTHCF-C7XMs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pTHCF-C7XMs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pTHCF-C7XMs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pTHCF-C7XMs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pTHCF-C7XMs"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "J8y-d8BgZ1wRPQtOG9zMnaw__iY",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-08-11T00:30:32Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#07 - Bootstrap Typography - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Typography - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap grid system and how we should structure our layout in most efficient way with real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #08 - Bootstrap Colors (https://youtu.be/Plh6huYTBz4)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⏱ Time Stamps\n- - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n01:24 - Bootstrap headings\n03:52 - Bootstrap Display & Lead\n08:27 - Bootstrap Lists\n12:24 - Inline lists\n14:02 - Blockquotes\n17:00 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Bootstrap Typography documentation:(https://getbootstrap.com/docs/4.5/content/typography/)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapTypography #CodingTamil #Cyberdude #AnbuselvanRocky #Viewports",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F5qevfpiDwM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F5qevfpiDwM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F5qevfpiDwM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F5qevfpiDwM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "F5qevfpiDwM"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "La6OJl-P7Wpwl8_aCkGZ3HlkFkM",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-08-11T00:33:15Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#08 - Bootstrap Colors - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Colors - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap grid system and how we should structure our layout in most efficient way with real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #09 - Bootstrap Images (https://youtu.be/sZQwFX3zD4U)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⏱ Time Stamps\n- - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:47 - Text colors\n03:59 - Background colors\n04:32 - Real-time example\n06:38 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Bootstrap Colors documentation:(https://getbootstrap.com/docs/4.5/utilities/colors/)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapColors #CodingTamil #Cyberdude #AnbuselvanRocky #Viewports",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Plh6huYTBz4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Plh6huYTBz4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Plh6huYTBz4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Plh6huYTBz4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Plh6huYTBz4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Plh6huYTBz4"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "N15qzJSrkigwRyUS7Uti6W_NXpA",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-08-14T21:19:19Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#09 - Bootstrap Images - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Images - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap grid system and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #10 - Bootstrap Tables ()\n\n- - - - - - - - - - - - - - - - - - - - - -\n⏱ Time Stamps\n- - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro & .img-fluid\n03:02 - .img-thumbnail\n06:02 - How to center images\n09:29 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Bootstrap Colors documentation:(https://getbootstrap.com/docs/4.5/utilities/colors/)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapImages #CodingTamil #Cyberdude #AnbuselvanRocky",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sZQwFX3zD4U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sZQwFX3zD4U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sZQwFX3zD4U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sZQwFX3zD4U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sZQwFX3zD4U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sZQwFX3zD4U"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "v1gxSyddAHG4Ld5kT1uChqfWECA",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-08-16T22:02:56Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#10 - Bootstrap Tables - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Tables - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap grid system and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #11 - What is Bootstrap UI Components (https://youtu.be/w4jSVJWMBqk)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:23 - HTML5 Basic Table\n01:56 - Adding Bootstrap Classes\n06:05 - Responsive Table\n09:07 - Table sm sizes\n09:44 - Responsive breakpoints\n10:51 - Assignment Excercise\n11:28 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Bootstrap Colors documentation:(https://getbootstrap.com/docs/4.5/utilities/colors/)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapTables #HTML5 #Tables #CodingTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TIDBWBKjxBU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TIDBWBKjxBU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TIDBWBKjxBU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TIDBWBKjxBU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TIDBWBKjxBU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TIDBWBKjxBU"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zHHZ_Ee-hkiJgd99LWcdR1T1w-A",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-08-18T04:11:20Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#11 - What is Bootstrap Components - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Components - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap grid system and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #12 - Bootstrap Navbar (https://youtu.be/15vugTUVVVw)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:32 - What is bootstrap components?\n01:40 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Bootstrap Colors documentation:(https://getbootstrap.com/docs/4.5/utilities/colors/)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapComponents #HTML5 #CodingTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w4jSVJWMBqk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w4jSVJWMBqk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w4jSVJWMBqk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/w4jSVJWMBqk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "w4jSVJWMBqk"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zjKI6xRHl7nBqtSWw5equ0likj8",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-09-06T12:27:49Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#12 - Bootstrap Navbar - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Navigation bars (navbars) - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap grid system and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #13 - Bootstrap Jumbotron (https://youtu.be/inCAONqtxeg)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n01:57 - Refractoring the codes\n04:33 - Build navbar manually\n12:57 - Navbar colors\n13:54 - Navbar menu align\n14:48 - Navbar active class\n15:10 - Navbar Background colors\n15:58 - Navbar logo image\n17:56 - Image Lazy loading\n19:51 - Fixing the bug\n20:36 - Accessibility (ARIA)\n21:26 - Bootstrap Dropdowns\n23:19 - Bootstrap Menu disabled\n23:41 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Github Source:  https://github.com/anburocky3/Bootstrap-in-Tamil/\n👉 Bootstrap Navbar documentation:(https://getbootstrap.com/docs/4.5/components/navbar/)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#Navbar #BootstrapTamil #CodingTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/15vugTUVVVw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/15vugTUVVVw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/15vugTUVVVw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/15vugTUVVVw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/15vugTUVVVw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "15vugTUVVVw"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "30DBlwXC0Om3ytFlmKN467dRe7I",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2020-09-06T14:27:07Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#13 - Bootstrap Jumbotron  - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Jumbotron - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap jumbotron and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n\n👉 Next Video: #14 - Bootstrap Alerts ()\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:31 - Jumbotron Structure syntax\n01:09 - How to type in tamil language?\n03:14 - Jumbotron container\n04:07 - Using Typography in Jumbotron\n05:58 - Get Source code\n06:32 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Azhagi Plus here - https://www.azhagi.com/azhagi-free-apps-store.html\n👉 Github Source:  https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Jumbotron documentation:(https://getbootstrap.com/docs/4.5/components/jumbotron/)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#Jumbotron #BootstrapTamil #CodingTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/inCAONqtxeg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/inCAONqtxeg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/inCAONqtxeg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/inCAONqtxeg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/inCAONqtxeg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "inCAONqtxeg"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dHy0s3WD1dyhK4b2itn5JTPKeiQ",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-09-06T16:27:20Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#14 - Bootstrap Alerts - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Alerts - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap alerts and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #15 - Bootstrap Buttons ()\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:49 - Let's code\n05:47 - Dismissible alerts\n09:20 - Accessibility\n10:14 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Github Source:  https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Alerts documentation:(https://getbootstrap.com/docs/4.5/components/alerts/)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapComponents #HTML5 #CodingTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HVDBSkCiOoo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HVDBSkCiOoo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HVDBSkCiOoo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HVDBSkCiOoo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HVDBSkCiOoo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HVDBSkCiOoo"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "L8kP4ZLgnMoGErNIQyCTwZ9ciDI",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-09-14T08:00:40Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#15 - Bootstrap Buttons - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Buttons - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap buttons and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #16 - Bootstrap Button Groups (https://youtu.be/X7VJWYmraMU)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:29 - Bootstrap buttons\n05:22 - Text nowrap\n06:41 - Outlined buttons\n08:17 - Using btn classes in other tags\n11:02 - Button sizes\n12:40 - Button block\n14:05 - Active class\n14:55 - Disabled class\n16:06 - Implementing buttons in our project\n16:40 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Github Source:  https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Buttons documentation:(https://getbootstrap.com/docs/4.5/components/buttons/)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapButtons #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NqD8h_eEcHc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NqD8h_eEcHc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NqD8h_eEcHc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NqD8h_eEcHc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NqD8h_eEcHc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NqD8h_eEcHc"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "L22YllHcriO2AI9twyhC2KbD1hw",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-09-15T19:09:25Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#16 - Bootstrap Button Groups - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Buttons - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap buttons and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #17 - Using Icons in Bootstrap (https://youtu.be/T5SSL3xnOqQ)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n01:40 - How to Group buttons\n02:31 - Good Practice (Accessibility)\n03:30 - Individual Button Sizes\n04:52 - Button Groups Dropdown\n06:30 - Installing popper.min.js\n09:12 - How to check errors?\n10:26 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Github Source:  https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Button Groups documentation:(https://getbootstrap.com/docs/4.5/components/button-group/)\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#ButtonGroups #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X7VJWYmraMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X7VJWYmraMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X7VJWYmraMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X7VJWYmraMU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/X7VJWYmraMU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "X7VJWYmraMU"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4cXF0vHDQ00VTES-lI9YqZkI-JM",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2020-09-20T08:04:09Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#17 - Using Icons in Bootstrap - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Using Icons in Bootstrap - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap buttons and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #18 - Bootstrap Badges (https://youtu.be/fI1C0kOHXvw)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n01:04 - Using FontAwesome icons\n01:54 - Creating icons using Emmet\n02:28 - Other CSS icons libraries\n02:53 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Github Source:  https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Fontawesome icons - (https://fontawesome.com/icons)\n👉 Material icons - https://material.io/resources/icons/\n👉 Simple Line icons - (https://simplelineicons.github.io/)\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapIcons #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T5SSL3xnOqQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T5SSL3xnOqQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T5SSL3xnOqQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/T5SSL3xnOqQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/T5SSL3xnOqQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "T5SSL3xnOqQ"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ts7SRPUhaRSr4DDIXrTR2ce9Gnc",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2020-09-22T05:11:41Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#18 - Bootstrap Badges - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Badges Tutorial in Tamil | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap badges and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #19 - Bootstrap Breadcrumb (https://youtu.be/W9LQNsToNTg)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:13 - What is Bootstrap Badges?\n00:20 - Badges example\n01:06 - Behind the scenes\n01:53 - Creating buttons with badges using Emmet\n04:46 - Bootstrap Pill Badges\n05:10 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Github Source:  https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Badges documentation:(https://getbootstrap.com/docs/4.5/components/badge/)\n\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapBadges #PillBadges #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fI1C0kOHXvw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fI1C0kOHXvw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fI1C0kOHXvw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fI1C0kOHXvw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fI1C0kOHXvw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fI1C0kOHXvw"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ybQaNNif_8zIGdMa7NPFKkXWwFM",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-09-22T15:49:48Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#19 - Bootstrap Breadcrumb - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Breadcrumb Tutorial in Tamil | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap breadcrumb and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #20 - Bootstrap Cards (https://youtu.be/dhrYGGqcxqg)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:14 - What is Bootstrap Breadcrumb?\n01:56 - Creating Breadcrumb\n03:42 - Accessibility (ARIA)\n04:04 - Breadcrumb Separators\n05:57 - Image Separators\n07:13 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Github Source:  https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Breadcrumb documentation:(https://getbootstrap.com/docs/4.5/components/breadcrumb/)\n\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapBreadcrumb #Navigation#BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W9LQNsToNTg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W9LQNsToNTg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W9LQNsToNTg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W9LQNsToNTg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/W9LQNsToNTg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "W9LQNsToNTg"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4ujYh2O9zGfOIzYQKFZ9wdBx6Cc",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2020-09-30T18:22:16Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#20 - Bootstrap Cards - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Cards Tutorial in Tamil | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap cards and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #21 - Bootstrap Horizontal Card (https://youtu.be/zQnoyncicTk)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n02:40 - Adding Bootstrap Colors to Cards\n03:44 - Img card\n10:07 - Creating Cards using Emmet\n16:07 - .card-img-bottom class\n16:55 - Card Subtitle\n17:55 - Using badges in Card\n24:25 - Adding Enroll now button in Card-body\n30:50 - Card-link class\n33:16 - Card Group\n35:35 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Card documentation:(https://getbootstrap.com/docs/4.5/components/card/)\n\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapCards #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dhrYGGqcxqg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dhrYGGqcxqg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dhrYGGqcxqg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dhrYGGqcxqg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dhrYGGqcxqg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dhrYGGqcxqg"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3a7xxHLAJ_b1F4F7_5QeJKg45uY",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2020-10-07T16:42:01Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#21 - Bootstrap Horizontal Card - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Horizontal Blog Cards Tutorial in Tamil | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap cards and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #22 - Bootstrap List Group (https://youtu.be/sPxy6lZsCEI)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n02:42 - Adding Breadcrumb title and description\n04:09 - Implementing Blog Lists\n08:16 - .no-gutters class\n15:01 - Adding icons inside badges\n19:32 - Checking the responsibility\n20:03 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Card documentation:(https://getbootstrap.com/docs/4.5/components/card/)\n\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapHorizontalCard #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zQnoyncicTk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zQnoyncicTk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zQnoyncicTk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zQnoyncicTk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zQnoyncicTk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zQnoyncicTk"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zPgMq5IPUSkLjdaPTevqIZKVebw",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2020-10-14T18:38:48Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#22 - Bootstrap List Groups - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap List Groups Tutorial in Tamil | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap list group and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #23 - Bootstrap Carousel Sliders (https://youtu.be/R2dVbSY6p40)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n01:34 - Implementing List Group\n04:18 - Adding contextual classes in List group\n04:56 - List group links\n08:23 - List Group Flush\n09:04 - Horizontal List Group\n11:37 - List group with badges\n15:47 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap List Group documentation:(https://getbootstrap.com/docs/4.5/components/list-group/)\n\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#ListGroups #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sPxy6lZsCEI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sPxy6lZsCEI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sPxy6lZsCEI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sPxy6lZsCEI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sPxy6lZsCEI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sPxy6lZsCEI"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QHFqN6ztBMLreIvq7no5ldL8IgY",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2020-10-26T06:58:56Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#23 - Bootstrap Carousel Sliders - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Carousel Tutorial in Tamil | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap carousel sliders and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #24 - Bootstrap Collapse (https://youtu.be/CKN6mpTgJWk)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n04:49 - Previous & Next navigation\n07:25 - Slideshow visual indication\n08:33 - Adding text to carousel(Sliders)\n09:51 - Animating Slideshow (Crossfade)\n10:37 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Carousel documentation:(https://getbootstrap.com/docs/4.5/components/carousel/)\n\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapSliders #Carousel #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R2dVbSY6p40/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R2dVbSY6p40/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R2dVbSY6p40/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R2dVbSY6p40/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R2dVbSY6p40/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "R2dVbSY6p40"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iNIGCQkBH1azdzAWCmSUhdDc7gc",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2020-11-02T19:50:18Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#24 - Bootstrap Collapse & Accordion - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Collapse & Accordion Tutorial in Tamil | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap carousel sliders and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #25 - Bootstrap Dropdown (https://youtu.be/EGXu2itN1hY)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n02:31 - Collapse using anchor tag\n06:53 - Collapse using button\n08:12 - Implementing FAQs Page\n16:58 - .accordion class\n18:23 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Collapse & Accordion documentation:(https://getbootstrap.com/docs/4.5/components/collapse/)\n\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapCollapse #Accordion #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CKN6mpTgJWk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CKN6mpTgJWk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CKN6mpTgJWk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CKN6mpTgJWk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CKN6mpTgJWk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CKN6mpTgJWk"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZTohi56Pinhd4anQEVh49jEHttU",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2020-11-22T11:40:50Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#25 - Bootstrap Dropdowns - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap dropdowns Tutorial in Tamil | Bootstrap Course  | Web Design\n\nIn this video, we will learn about the bootstrap dropdowns and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #26 - Bootstrap Forms (https://youtu.be/NRScWCy3I7g)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n-        ⏱ Time Stamps         -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n05:49 - Question: Why are we specifying button type inside button?\n06:33 - Add Icons to Dropdowns\n06:40 - Adding support for accessibility [Screen readers]\n12:25 - Dropdown dividers\n13:38 - Split dropdown\n17:15 - Changing button sizes\n18:10 - Dropdown directions\n20:13 - .active class\n21:28 - How to get working files? Github!\n21:46 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link  ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Dropdowns documentation:(https://getbootstrap.com/docs/4.5/components/dropdowns/)\n\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel:  https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor:  Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapDropdowns #DropdownsTamil #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EGXu2itN1hY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EGXu2itN1hY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EGXu2itN1hY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EGXu2itN1hY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EGXu2itN1hY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EGXu2itN1hY"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AhTcx4yQ6PsTdPaYtLPE6nUZi7c",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2020-11-24T21:54:54Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#26 - Bootstrap Forms - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap forms in Tamil | Bootstrap Course | Web Design\n\nIn this video, we will learn about the bootstrap forms and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #27 - Build Register Form using Bootstrap (https://youtu.be/kPuMoaPTQRg)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n- ⏱ Time Stamps -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n01:07 - Changes in Menus \n03:25 - Implementing Maps \n05:33 - Designing Form \n07:19 - Input text field \n11:34 - Form group class \n12:32 - Email form class \n13:28 - Adding button to forms \n14:25 - Radio form class \n21:34 - Select tag inside the form \n23:09 - Bootstrap textarea \n24:50 - Bootstrap checkbox \n26:57 - Adding mandatory fields \n28:31 - Required fields \n29:55 - Assignment task \n30:09 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Forms documentation:(https://getbootstrap.com/docs/4.5/components/forms/)\n👉 Google map embed website: https://embedgooglemap.net\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel: https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor: Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapForms #Forms #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NRScWCy3I7g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NRScWCy3I7g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NRScWCy3I7g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NRScWCy3I7g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NRScWCy3I7g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NRScWCy3I7g"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "h8Ukmb58fsUb-qHtRvET_4JGmwc",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2020-11-26T22:44:51Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#27 - Build Register Form using Bootstrap - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Register form using bootstrap in Tamil | Bootstrap Course | Web Design\n\nIn this video, we will learn about the bootstrap forms and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #28 - Bootstrap Horizontal Form (https://youtu.be/kAOuCneSL24)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n- ⏱ Time Stamps -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n03:31 - Building forms quickly using Emmet\n07:12 - Splitting into form-grid\n15:19 - Assignment: Build Login page yourself\n15:33 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Forms documentation:(https://getbootstrap.com/docs/4.5/components/forms/)\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel: https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor: Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BuildForms #BootstrapForms #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kPuMoaPTQRg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kPuMoaPTQRg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kPuMoaPTQRg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kPuMoaPTQRg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kPuMoaPTQRg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kPuMoaPTQRg"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rtWgVXBq6bhygG-9ExCuxsTn42w",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2020-12-04T20:30:58Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#28 - Bootstrap Horizontal form - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Horizontal form in Tamil | Bootstrap Course | Web Design\n\nIn this video, we will learn about the bootstrap horizontal forms and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #29 - Bootstrap Input Group ()\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n- ⏱ Time Stamps -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n03:01 - Coding email input field\n03:43 - Adding submit button\n04:18 - Converting into Horizontal form\n06:00 - Adding Password input field\n08:05 - Adding checkbox input field\n09:47 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Forms documentation:(https://getbootstrap.com/docs/4.5/components/forms/)\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel: https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor: Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapForms  #HorizontalForm #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kAOuCneSL24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kAOuCneSL24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kAOuCneSL24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kAOuCneSL24/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kAOuCneSL24/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kAOuCneSL24"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mnNuqLgr4VSVDVAAUki4sZCIyt4",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2020-12-05T09:53:01Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#29 - Bootstrap Input Groups - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap Input Groups in Tamil | Bootstrap Course | Web Design\n\nIn this video, we will learn about the bootstrap input groups and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #30 - Bootstrap Form Validations (https://youtu.be/y_pl50cCIvU)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n- ⏱ Time Stamps -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n03:19 - Adding input groups\n08:19 - .input-group-append\n10:00 - Input Group Sizing\n11:08 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Input Group documentation:(https://getbootstrap.com/docs/4.5/components/input-group/)\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel: https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor: Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#InputGroups #BootstrapForms #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mg7MGvB4vco/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mg7MGvB4vco/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mg7MGvB4vco/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mg7MGvB4vco/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mg7MGvB4vco/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mg7MGvB4vco"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "r4lp9LkRJuSKkWAaHVFJDptWJ7Y",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2020-12-05T17:00:39Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#30 - Bootstrap Dynamic Form Validation - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Bootstrap form validation in Tamil | Bootstrap Course | Web Design\n\nIn this video, we will learn about the bootstrap form validations and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #31 - Building Tutorial request form (https://youtu.be/k-_mhX1zxSQ)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n- ⏱ Time Stamps -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:43 - HTML validations\n02:34 - Understanding Bootstrap validation classes\n06:52 - JavaScript coding\n15:55 - Tooltip validation\n17:54 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Forms documentation:(https://getbootstrap.com/docs/4.5/components/forms/)\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel: https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor: Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapForms #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y_pl50cCIvU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y_pl50cCIvU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y_pl50cCIvU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/y_pl50cCIvU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/y_pl50cCIvU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "y_pl50cCIvU"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "w2yF0EguuKWEjfAMNbr9zhxCGjQ",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2020-12-12T21:07:05Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#31 - Building Tutorial Request Form (Complete) - (தமிழில்) (Tamil) | Bootstrap Course  | Web Design",
+                "description": "Building Tutorial Request Form with Javascript validation and dynamic javascript in Tamil | Bootstrap Course | Web Design\n\nIn this video, we will learn about the bootstrap forms and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #32 - Bootstrap Modals ()\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n- ⏱ Time Stamps -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n00:50 - What we are going to built?\n01:47 - Get Working source code in Github\n16:22 - Building forms\n37:21 - Problem in this form\n39:02 - HTML5 Validation\n40:32 - JavaScript: Dynamic years\n48:13 - JavaScript Form Validation\n51:18 - Checking the responsible support\n53:25 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap Forms documentation:(https://getbootstrap.com/docs/4.5/components/forms/)\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel: https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor: Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#PracticalApp #BootstrapForms #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k-_mhX1zxSQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k-_mhX1zxSQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k-_mhX1zxSQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k-_mhX1zxSQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/k-_mhX1zxSQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "k-_mhX1zxSQ"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9K7AIL0Bn9xUMrsLeSvPg3NiBCo",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2021-01-02T17:19:50Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#32 - Bootstrap 5 Features, Migrations & Course Update - (தமிழில்) (Tamil) | Bootstrap Course",
+                "description": "Migrating from Bootstrap 4 to Bootstrap 5 with features, migrations in Tamil | Bootstrap Course | Web Design\n\nIn this video, we will learn about the bootstrap 5 features and migrations and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #33 - Bootstrap  ()\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n- ⏱ Time Stamps -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n01:15 - What is beta version?\n03:06 - Software release lifecycle\n04:28 - Bootstrap 4 is old & invalid?\n04:25 - How to install bootstrap\n06:18 - Replace Bootstrap 4 with Bootstrap 5\n10:08 - Bootstrap 5 Migration & Features\n10:36 - Bootstrap5 RTL Feature\n11:27 - Solution for why ml-* mr-* not working? \n15:55 - Fixing page with bootstrap 5\n23:41 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap 5 documentation:(https://getbootstrap.com)\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel: https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor: Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#Bootstrap5  #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QdTSJJOTbpg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QdTSJJOTbpg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QdTSJJOTbpg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QdTSJJOTbpg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QdTSJJOTbpg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QdTSJJOTbpg"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kAk1iq9IaET5MdvC4L-KnvJD4bI",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2021-01-19T15:06:45Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#33 - Redesigning, Migrating from Bootstrap 4 to Bootstrap 5 - (தமிழில்) (Tamil) | Bootstrap Course",
+                "description": "Converting the website from Bootstrap 4 to Bootstrap 5 with features, migrations in Tamil | Bootstrap Course | Web Design\n\n\nIn this video, we will learn about the bootstrap 5 features and migrations and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #34 - Bootstrap Modals (https://youtu.be/ToixyZ4osP0)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n- ⏱ Time Stamps -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n01:00 - Fixing the overlap issue\n02:57 - Fixing the Tutorial request form\n03:51 - Replace Bootstrap 5 with Bootstrap 4\n08:21 - Fixing the register page\n10:48 - Fixing Contact page\n13:06 - Fixing Login Page\n14:43 - Fixing the blog\n15:06 - Jumbotron removed\n17:03 - Replace: badge-color with bg-color\n19:14 - Fixing the courses page\n22:23 - Fixing the about page\n23:04 - Fixing the homepage\n24:44 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap 5 documentation:(https://getbootstrap.com)\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel: https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor: Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapRedesign #Bootstrap5 #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ql-5zwmpPiU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ql-5zwmpPiU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ql-5zwmpPiU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ql-5zwmpPiU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ql-5zwmpPiU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ql-5zwmpPiU"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hEuolrslbktTDvwLeonAX68HDvA",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2021-01-19T19:38:27Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#34 - Bootstrap Modals - (தமிழில்) (Tamil) | Bootstrap Course",
+                "description": "Converting the website from Bootstrap 4 to Bootstrap 5 with features, migrations in Tamil | Bootstrap Course | Web Design\n\n\nIn this video, we will learn about the bootstrap 5 features and migrations and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #35 - Bootstrap Navs & Tabs (https://youtu.be/vBWpX-NY-54)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n- ⏱ Time Stamps -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n08:45 - Static backdrop\n10:20 - Scrolling long content\n11:27 - Vertically centered\n12:19 - Tooltips and popover\n12:36 - Using grid inside bootstrap modal\n27:39 - Fixing the bug!\n28:29 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap 5 documentation:(https://getbootstrap.com)\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel: https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor: Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapModals #Bootstrap5 #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ToixyZ4osP0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ToixyZ4osP0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ToixyZ4osP0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ToixyZ4osP0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ToixyZ4osP0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ToixyZ4osP0"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "H-Of_UQA4CgGPGU2A2OlyMw4VLA",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2021-01-27T20:47:41Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#35 - Bootstrap Navs & Tabs - (தமிழில்) (Tamil) | Bootstrap Course",
+                "description": "Creating navs & tabs in bootstrap 5 in Tamil | Bootstrap Course | Web Design\n\n\nIn this video, we will learn about the bootstrap 5 navs & tabs and how we should structure our layout in the most efficient way with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #36 - Bootstrap Pagination (https://youtu.be/3C9Xs6xY5GA)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n- ⏱ Time Stamps -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n01:45 - Adding nav\n05:46 - .justified-content\n06:13 - .justifiy-content-center\n06:46 - .flex-column\n07:58 - .nav-justified\n08:22 - .active class inside the nav\n08:38 - .nav-tabs class\n09:00 - .nav-pills class\n09:20 - Creating a responsive dynamic tab with contents\n09:33 - .disabled class in nav\n10:04 - Disabling the tabindex for disabled items\n19:08 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap 5 documentation:(https://getbootstrap.com)\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel: https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor: Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapNavs #BootstrapTabs #Bootstrap5 #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vBWpX-NY-54/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vBWpX-NY-54/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vBWpX-NY-54/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vBWpX-NY-54/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vBWpX-NY-54/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vBWpX-NY-54"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Sqdpa2qPZcaL2bGZnFnCXxkFnnk",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2021-01-28T21:19:28Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#36 - Bootstrap Pagination - (தமிழில்) (Tamil) | Bootstrap Course",
+                "description": "Creating Pagination in bootstrap 5 in Tamil | Bootstrap Course | Web Design\n\n\nIn this video, we will learn about bootstrap pagination and how we should structure our layout most efficiently with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #37 - Bootstrap ()\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n- ⏱ Time Stamps -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n03:09 - Pagination skeleton\n06:59 - Disabled attribute in pagination\n07:23 - Pagination alignment\n07:53 - Pagination size .pagination-lg\n08:30 - Pagination .active class\n09:03 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap 5 documentation:(https://getbootstrap.com)\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel: https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor: Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapPagination  #Bootstrap5 #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3C9Xs6xY5GA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3C9Xs6xY5GA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3C9Xs6xY5GA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3C9Xs6xY5GA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3C9Xs6xY5GA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3C9Xs6xY5GA"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eXRt1SwiMGzGiJuUVW7mMqqvn-I",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2021-01-30T01:11:11Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "#37 - Bootstrap Popovers - (தமிழில்) (Tamil) | Bootstrap Course",
+                "description": "Creating Popovers in bootstrap 5 in Tamil | Bootstrap Course | Web Design\n\n\nIn this video, we will learn about bootstrap popovers and how we should structure our layout most efficiently with a real example. If you have any doubts, kindly ask in the comment section.\n\n👉 Next Video: #38 - Bootstrap Tooltips (https://youtu.be/bjy-LhoDBGc)\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n- ⏱ Time Stamps -\n- - - - - - - - - - - - - - - - - - - - - - - -\n00:00 - Intro\n01:31 - Popover html structure\n03:19 - Initializing the popover\n04:40 - .focus class\n05:50 - data-placements\n07:06 - Initiliazing all popovers at once\n10:16 - What to watch next?\n- - - - - - - - - - - - - - - - - - - - - - - -\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ Download link ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n👉 Download Code: https://github.com/anburocky3/Bootstrap-in-Tamil\n👉 Bootstrap documentation:(https://getbootstrap.com)\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To be expert, learn these these: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n✅ HTML5 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq\n\n✅ CSS3 Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh\n\n✅ Flexbox Course in Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hQzePIlNfRYSqT3g03tUT9\n\n✅ JavaScript Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa\n\n✅ Web Design Course Tamil:\nhttps://www.youtube.com/playlist?list=PL73Obo20O_7hXiekaZ0VXGDAzrtXaKmyR\n\n- - - - - - - - - - - - - - - - - - - - - -\n\n\n- - - - - - - - - - - - - - - - - - - - - -\n⭐️ To Join in our free training course: ⭐️\n- - - - - - - - - - - - - - - - - - - - - -\n\n👉 Join here https://cyberdudenetworks.com/training\n\nTo know video updates join our Facebook group:\n👉 Facebook Group: https://www.facebook.com/groups/cyberdudetraining/\n\n\nTo get the video content updates, subscribe to our telegram channel here: \n👉 Telegram Channel: https://t.me/cyberdudechannel\n\n\nCredits:\n\nSponsor: CyberDude Networks [https://www.cyberdudenetworks.com]\n\nInstructor: Anbuselvan Rocky [https://facebook.com/anburocky3]\n\n#BootstrapPopovers #Bootstrap5 #BootstrapTamil #CodingInTamil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nB3-aBWRNos/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nB3-aBWRNos/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nB3-aBWRNos/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nB3-aBWRNos/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nB3-aBWRNos/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nB3-aBWRNos"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "y3dgeUYDI_TkVTCbKGjajyWmqmQ",
+            "id": "UEw3M09ibzIwT183ak4tLXhvNFVGdy1ETzFPTTV2UUVNSi4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2021-01-30T02:21:29Z",
+                "channelId": "UCteUj8bL1ppZcS70UCWrVfw",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "CyberDude Networks Pvt. Ltd.",
+                "playlistId": "PL73Obo20O_7jN--xo4UFw-DO1OM5vQEMJ",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bjy-LhoDBGc"
+                }
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 38,
+        "resultsPerPage": 50
+    }
+}
